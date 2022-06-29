@@ -1,9 +1,8 @@
 # React Sneakers
 Интернет-магазин кросовок 
+Stack: • ReactJS + хуки • React Router • React Context • React Skeleton • Redux • Axios • mockApi • SCSS • 
 
 ![Главая страница](https://github.com/ElHilarion/react-sneakers/blob/main/sn-main-page.png)
-
-Stack: • ReactJS + хуки • React Router • React Context • React Skeleton • Redux • Axios • mockApi • SCSS • 
 
 Реализованные функции.
 ![Главая страница](https://github.com/ElHilarion/react-sneakers/blob/main/sn-basket-order.png)
