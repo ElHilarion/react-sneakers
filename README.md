@@ -7,8 +7,6 @@ Stack: • ReactJS + хуки • React Router • React Context • React Skele
 
 Реализованные функции.
 
-![Корзина с заказами](https://github.com/ElHilarion/react-sneakers/blob/main/sn-basket-order.png)
-
 •	Возможность открывать корзину, добавлять и удалять выбранные товары. 
 
 •	Подсчет общей стоимости добавленных в корзину товаров. 
@@ -18,6 +16,8 @@ Stack: • ReactJS + хуки • React Router • React Context • React Skele
 •	Вывод списка всех доступных товаров на главной странице. 
 
 •	Отслеживание, какие кроссовки имеют статус «добавленные», «избранное» (отображение зеленой галочки при добавлении в корзину товара и сердечка при добавлении в изанное).
+
+![Корзина с заказами](https://github.com/ElHilarion/react-sneakers/blob/main/sn-basket-order.png)
 
 ![Пустая корзина](https://github.com/ElHilarion/react-sneakers/blob/main/sn-basket.png)
 
