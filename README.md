@@ -21,7 +21,12 @@ Stack: • ReactJS + хуки • React Router • React Context • React Skele
 
 ![Пустая корзина](https://github.com/ElHilarion/react-sneakers/blob/main/sn-basket.png)
 
-Использование библиотеки React Content Loader(https://skeletonreact.com/) для реализации состояния загрузки карточек товаров. 
+Использование библиотеки 
+
+React Content Loader(https://skeletonreact.com/) для реализации состояния загрузки карточек товаров. 
+
 Подключение mockApi(https://mockapi.io/) в качестве тестового сервера. 
+
 Использование хуков “useState” и “useEffect". 
+
 React “createContext” и “useContext” для упрощения доступа к свойствам каждого компонента. Позволяет отказаться от длинной схемы передачи свойств через props в каждый отдельный компонент. 
