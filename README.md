@@ -1,4 +1,5 @@
-# React Sneakers
+# 👟 React Sneakers 👟
+
 Интернет-магазин кросовок 
 
 Stack: • ReactJS + хуки • React Router • React Context • React Skeleton • Redux • Axios • mockApi • SCSS • 
